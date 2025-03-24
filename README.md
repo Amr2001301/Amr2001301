@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm Amr Rakha from Cairo<br><br>🎯 Passionate about building beautiful and responsive mobile applications.<br>📱 Experience with Flutter & Dart for cross-platform development.<br>🔧 Skilled in state management (Provider, Bloc).<br>🛠️ Familiar with Firebase, REST APIs, and local databases (Hive, SQLite).<br>🎨 Strong UI/UX understanding and experience with Material Design.<br>📝 Always eager to learn new technologies and improve coding skills.<br>📂 Check out my portfolio: https://amr2001301.github.io/AmrRakha.github.io<br>🌱 Open to collaboration and new opportunities!</p>
+<p align="left">I'm Amr Rakha from Cairo<br><br>🎯 Passionate about building beautiful and responsive mobile applications.<br>📱 Experience with Flutter & Dart for cross-platform development.<br>🔧 Skilled in state management (Provider, Bloc).<br>🛠️ Familiar with Firebase, REST APIs, and local databases (Hive, SQLite).<br>🎨 Strong UI/UX understanding and experience with Material Design.<br>📝 Always eager to learn new technologies and improve coding skills.<br>📂 Check out my portfolio: https://amr2001301.github.io/AmrRakha.github.io/amr<br>🌱 Open to collaboration and new opportunities!</p>
 
 ###
 
